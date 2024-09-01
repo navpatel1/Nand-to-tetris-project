@@ -3,7 +3,7 @@ Projects for the Coursera course: From Nand to Tetris Parts I &amp; II
 
 [From Nand to Tetris](https://www.nand2tetris.org/) is one of the top-rated courses on [Coursera](https://www.coursera.org/). This course is a project-based course on computer architecture and compilers. Along the course, students will build a computer, a machine language, an assembly language and its assembler, a high-level languange and its compiler, an OS, and a game which is written in the high-level language and running on the OS. In this course everything is built from scratch. The whole project is gradually built upon the single one chip that is given - the Nand gate.
 
-The course consists of 12 projects. This repository contains my work along the journey of this course. In particular, my final project (Project 9, not 12, interestingly) of this course is an RPG game called Magic Tower. I have uploaded the recording of me playing the game to [YouTube](https://www.youtube.com/watch?v=03VlOt-UVdA). I am quite proud of that project. Please have a look at that if you are interested =)
+
 
 ## Table of Contents
 |||
